@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://systemfromscratch.github.io/"><img src="https://systemfromscratch.github.io/assets/img/logo-header.png" alt="SystemFromScratch® logo" width="360"/></a>
+  <a href="https://systemfromscratch.github.io/"><img src="logo.svg" alt="SystemFromScratch® logo" width="380"/></a>
 </p>
 
 <h1 align="center">Embedded systems built from scratch</h1>
