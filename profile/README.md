@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://SystemFromScratch.com/"><img src="https://img.shields.io/badge/Website-050b16?style=for-the-badge&logo=googlechrome&logoColor=2f8cff" alt="Website"/></a>
-  <a href="mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email-Get_in_touch-1d5fbf?style=for-the-badge" alt="Email"/></a>
+  <a href="mailto:contact@systemfromscratch.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email-Get_in_touch-1d5fbf?style=for-the-badge" alt="Email"/></a>
   <a href="https://SystemFromScratch.com/projects.html"><img src="https://img.shields.io/badge/Projects-1b3358?style=for-the-badge" alt="Projects"/></a>
   <a href="https://SystemFromScratch.com/articles.html"><img src="https://img.shields.io/badge/Articles-1b3358?style=for-the-badge" alt="Articles"/></a>
 </p>
@@ -34,7 +34,7 @@ From the first board on the bench to a secure, maintainable product in the field
 ## Is your firmware ready for the CRA?
 
 The CRA's vulnerability reporting obligations have applied since **11 September 2026**, and the full requirements apply from **11 December 2027**. We review your current firmware, show you where the gaps are and help you close them.
-👉 [Ask for a CRA gap review](mailto:avynohradov@systemfromscratch.com?subject=CRA%20gap%20review)
+👉 [Ask for a CRA gap review](mailto:contact@systemfromscratch.com?subject=CRA%20gap%20review)
 
 ## Open-source libraries you can audit line by line
 
@@ -54,6 +54,6 @@ Each release ships with a static library, a MISRA report and a printable PDF use
 
 Tell us about your product, timeline and constraints. We can start with a short call or a fixed-scope code, MISRA or CRA review of your existing firmware.
 
-📩 **[avynohradov@systemfromscratch.com](mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry)** · 🌐 **[SystemFromScratch.com](https://SystemFromScratch.com/)** · 📍 Poland, remote worldwide
+📩 **[contact@systemfromscratch.com](mailto:contact@systemfromscratch.com?subject=Project%20inquiry)** · 🌐 **[SystemFromScratch.com](https://SystemFromScratch.com/)** · 📍 Poland, remote worldwide
 
 <sub>Founded by <a href="https://github.com/AntonVynohradov">Anton Vynohradov</a>. SystemFromScratch® is a registered trademark.</sub>
