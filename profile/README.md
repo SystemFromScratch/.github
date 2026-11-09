@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://systemfromscratch.github.io/"><img src="logo.svg" alt="SystemFromScratch® logo" width="380"/></a>
+  <a href="https://SystemFromScratch.com/"><img src="logo.svg" alt="SystemFromScratch® logo" width="380"/></a>
 </p>
 
 <h1 align="center">Embedded systems built from scratch</h1>
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://systemfromscratch.github.io/"><img src="https://img.shields.io/badge/Website-050b16?style=for-the-badge&logo=googlechrome&logoColor=2f8cff" alt="Website"/></a>
+  <a href="https://SystemFromScratch.com/"><img src="https://img.shields.io/badge/Website-050b16?style=for-the-badge&logo=googlechrome&logoColor=2f8cff" alt="Website"/></a>
   <a href="mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry"><img src="https://img.shields.io/badge/Email-Get_in_touch-1d5fbf?style=for-the-badge" alt="Email"/></a>
-  <a href="https://systemfromscratch.github.io/projects.html"><img src="https://img.shields.io/badge/Projects-1b3358?style=for-the-badge" alt="Projects"/></a>
-  <a href="https://systemfromscratch.github.io/articles.html"><img src="https://img.shields.io/badge/Articles-1b3358?style=for-the-badge" alt="Articles"/></a>
+  <a href="https://SystemFromScratch.com/projects.html"><img src="https://img.shields.io/badge/Projects-1b3358?style=for-the-badge" alt="Projects"/></a>
+  <a href="https://SystemFromScratch.com/articles.html"><img src="https://img.shields.io/badge/Articles-1b3358?style=for-the-badge" alt="Articles"/></a>
 </p>
 
 ---
@@ -48,12 +48,12 @@ The same engineering standard we bring to client firmware, published in the open
 | [**DXL2-C**](https://antonvynohradov.github.io/DXL2-C/) | ROBOTIS DYNAMIXEL Protocol 2.0 |
 | [**Stepper-C**](https://antonvynohradov.github.io/Stepper-C/) | Stepper motor control with sensorless stall detection |
 
-Each release ships with a static library, a MISRA report and a printable PDF user manual. See all [projects](https://systemfromscratch.github.io/projects.html) and [articles](https://systemfromscratch.github.io/articles.html).
+Each release ships with a static library, a MISRA report and a printable PDF user manual. See all [projects](https://SystemFromScratch.com/projects.html) and [articles](https://SystemFromScratch.com/articles.html).
 
 ## Have a project in mind?
 
 Tell us about your product, timeline and constraints. We can start with a short call or a fixed-scope code, MISRA or CRA review of your existing firmware.
 
-📩 **[avynohradov@systemfromscratch.com](mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry)** · 🌐 **[systemfromscratch.github.io](https://systemfromscratch.github.io/)** · 📍 Poland, remote worldwide
+📩 **[avynohradov@systemfromscratch.com](mailto:avynohradov@systemfromscratch.com?subject=Project%20inquiry)** · 🌐 **[SystemFromScratch.com](https://SystemFromScratch.com/)** · 📍 Poland, remote worldwide
 
 <sub>Founded by <a href="https://github.com/AntonVynohradov">Anton Vynohradov</a>. SystemFromScratch® is a registered trademark.</sub>
